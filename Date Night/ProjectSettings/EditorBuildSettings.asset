@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: b41283461f2e6094d9f35a7c9fa94c39
+  - enabled: 1
+    path: Assets/Scenes/BaseLevel.unity
+    guid: 07b604bb8e6ae784c92dc3ed2a78ba78
+  - enabled: 1
+    path: Assets/Scenes/BasicStarter.unity
+    guid: 7115591061e9b1448953ba9afd2ab912
+  - enabled: 1
+    path: Assets/Scenes/FallPast.unity
+    guid: d1679b5594000e8468200573ec362503
+  - enabled: 1
+    path: Assets/Scenes/DividedJump.unity
+    guid: 4c4d2e9d338c6c64e9a26e53b23f6f6c
+  - enabled: 1
+    path: Assets/Scenes/VerticalBlocker.unity
+    guid: 02692828e14ae8447b07f4f2d4ade8fd
+  - enabled: 1
+    path: Assets/Scenes/VerticalBlockerHarder.unity
+    guid: b7e32482802187948be9931b605f320b
+  - enabled: 1
+    path: Assets/Scenes/ColorSwitch.unity
+    guid: 560c522e4950df842ab3c414cb7bfdea
+  - enabled: 1
+    path: Assets/Scenes/ColorSwitchHarder.unity
+    guid: 4053c9334e499a847b9d304e148cbde8
+  - enabled: 1
+    path: Assets/Scenes/ColorSwitchDelayed.unity
+    guid: c1c56057b53282142a9fde4075bf4f35
+  - enabled: 1
+    path: Assets/Scenes/ButtonsIntro.unity
+    guid: 215c9d0c660e5824da8cf832a2db2167
+  - enabled: 1
+    path: Assets/Scenes/ButtonsHarder.unity
+    guid: d88a0e23bd4331a40a788bf3ea50654e
+  - enabled: 1
+    path: Assets/Scenes/ButtonsMulti.unity
+    guid: db9f49b09dce42048a6f5401e23b2f2e
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 6a792718e419bdb48884de5e5dd6f5ba
+  m_configObjects: {}
